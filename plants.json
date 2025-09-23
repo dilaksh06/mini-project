@@ -1,0 +1,24 @@
+[
+    {
+        "image_path": "Lemon",
+        "captions": [
+            "A cluster of long green lemongrass stalks with a fresh citrus aroma",
+            "Lemongrass plant used in herbal teas and traditional medicine",
+            "Medicinal grass known for reducing anxiety and improving digestion",
+            "Lemongrass with tall slender leaves, widely used in Ayurveda",
+            "Herbal plant believed to lower blood pressure and boost oral health",
+            "Citrusy herbal plant rich in citral compound with antimicrobial effects",
+            "Fresh lemongrass stalks commonly brewed into calming herbal tea"
+        ],
+        "metadata": {
+            "species": "Cymbopogon citratus",
+            "common_name": "Lemongrass",
+            "family": "Poaceae",
+            "region": "Tropical and subtropical regions of Asia and Africa",
+            "source_urls": [
+                "https://ayurved.dpu.edu.in/blogs/ayurvedic-health-benefits-of-lemon-grass",
+                "https://www.1mg.com/ayurveda/lemongrass-170?srsltid=AfmBOoqVjpAsbEfOzydIlvc-0HEYgggtqQXb-h3wTHpIXCXQBFzIsb9b"
+            ]
+        }
+    }
+]

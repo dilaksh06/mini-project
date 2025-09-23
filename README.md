@@ -18,4 +18,3 @@ https://github.com/dilaksh06/medbotanica-server.git
 
 ## project docs
 https://drive.google.com/drive/folders/1oi_ti4bowvcackdd-D2snTKbbllv0Usv?usp=drive_link
-
