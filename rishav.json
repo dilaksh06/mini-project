@@ -9,19 +9,19 @@
             "Amruthaballi is a versatile addition to your diet",
             "This herbal plant rich in antioxidants",
             "it improves the metabolic system and flushes the toxins out of the body and helps in reducing cholesterol level",
-            "Amruthaballi is considered a blood purifier and supports liver function, aiding in the body's natural detoxification process",
+            "Amruthaballi is considered a blood purifier and supports liver function, aiding in the body's natural detoxification process"
             
         ],
         "metadata": {
             "species": "Tinospora Cordifolia",
-            "common_name": "Giloy","Amrita","Guduchi","Tinospora Cordifolia",
+            "common_name": ["Giloy","Amrita","Guduchi","Tinospora Cordifolia"],
             "family": "Menispermaceae",
             "region": "tropical and subtropical zones of India and other areas in South and Southeast Asia, including Myanmar and Sri Lanka",
             "source_urls": [
                 "https://farmfreshbangalore.com/products/amrutha-balli-1-bunch",
                 "https://www.1mg.com/ayurveda/giloy-24?srsltid=AfmBOoqXF-B-szCQnZXKXx4_ZvtJBx31Ao6FyMR_TWUmKbgd9t9Be8mk&wpsrc=Google+Organic+Search",
                 "https://upakarma.com/blogs/top-10-health-benefits-of-giloy-giloy-uses/",
-                "https://healthybuddha.in/blog/magazine-blog/greens-series-amruthabali#:~:text=Amruthaballi%2C%20also%20known%20as%20Gilroy%2C%20is%20a,with%20water%20and%20honey%20and%20consuming%20orally**",
+                "https://healthybuddha.in/blog/magazine-blog/greens-series-amruthabali#:~:text=Amruthaballi%2C%20also%20known%20as%20Gilroy%2C%20is%20a,with%20water%20and%20honey%20and%20consuming%20orally**"
                 
             ]
         }
@@ -35,18 +35,18 @@
             "It is often used traditionally for female disorders, particularly for dengue fever and malaria",
             "it also cause  worm infestations in children, dysentery, jaundice, pimples, gonorrhea, digestive problems, and tumors",
             "These leaves are dark green or yellow reddish with purplish markings",
-            "its flowers are arranged into dense rounded clusters in the upper leaf forks",
+            "its flowers are arranged into dense rounded clusters in the upper leaf forks"
         ],
         "metadata": {
             "species" : "Asthma-plant",
-            "common_name" : "Euphorbia hirta","asthma weed","tawa-tawa",
+            "common_name" : ["Euphorbia hirta","asthma weed","tawa-tawa"],
             "family" : "Euphorbiaceae",
             "region" : "originating from the tropical regions of the Americas",
             "source_urls": [
                 "https://weeds.brisbane.qld.gov.au/weeds/asthma-plant",
                 "https://pmc.ncbi.nlm.nih.gov/articles/PMC3249903/",
                 "https://plants.ces.ncsu.edu/plants/euphorbia-hirta/",
-                "https://www.inaturalist.org/taxa/131560-Euphorbia-hirta",
+                "https://www.inaturalist.org/taxa/131560-Euphorbia-hirta"
             ]
         }
     },
@@ -60,18 +60,18 @@
         "A sustainable and eco-friendly resource used in construction, furniture, flooring, paper, and food",
         "Culturally and medicinally significant across Asia, historically used in China, India, and Japan",
         "Helps manage asthma, cough, and respiratory congestion due to its expectorant property",
-        "Supports skin healing and wound care with its anti-bacterial and anti-inflammatory properties",
+        "Supports skin healing and wound care with its anti-bacterial and anti-inflammatory properties"
     ],
         "metadata": {
             "species": "Bambusa arundinacea",
-            "common_name": "Bans",
+            "common_name": ["Bans"],
             "family": "Poaceae (Grass family)",
             "region": "Asia, Africa, and the Americas; thrives in tropical and mountainous climates",
             "source_urls": [
             "https://www.1mg.com/ayurveda/bamboo-227?srsltid=AfmBOopifwslVnvWPzpGMqqkZbajvnQax7rD1fy5dyqLTxSoZIBwxgOB&wpsrc=Google+Organic+Search",
             "https://www.sciencedirect.com/science/article/abs/pii/S037887412300034X",
             "https://www.healthline.com/nutrition/bamboo-shoots",
-            "https://www.green.earth/blog/from-ancient-times-to-modern-day-exploring-the-many-uses-of-bamboo-in-our-daily-lives",
+            "https://www.green.earth/blog/from-ancient-times-to-modern-day-exploring-the-many-uses-of-bamboo-in-our-daily-lives"
 
             ]
         }
@@ -84,11 +84,11 @@
         "Used traditionally in Ayurveda to aid digestion, treat worms & diarrhea, improve oral hygiene and relieve joint pain",
         "Short-term effects: alertness, increased saliva, heightened heart rate, possible dizziness and sweating",
         "Long-term use linked to oral ulcers, gum disease, precancerous lesions, cancers and dependence",
-        "Precautions: avoid during pregnancy, with tobacco; risk increases with dose and frequency",
+        "Precautions: avoid during pregnancy, with tobacco; risk increases with dose and frequency"
     ],
         "metadata": {
             "species": "Areca catechu",
-            "common_name": "Betel Nut",
+            "common_name": ["Betel Nut"],
             "family": "Arecaceae (Palm family)",
             "region": "Tropical Asia and many tropical regions; widely used in South Asia, Southeast Asia",
             "source_urls": [
@@ -114,5 +114,8 @@
             ]
         }
     },
+    {
+        
+    }
 
 ]
