@@ -1,0 +1,481 @@
+[
+  {
+    "image_path": " ",
+    "captions": [
+      "Aloe vera is a succulent with thick, fleshy green leaves containing cooling gel.",
+      "It is well known for healing burns and wounds, keeping skin hydrated, and reducing inflammation.",
+      "The gel is also consumed to improve digestion, detoxify the body, and boost immunity.",
+      "Additionally, Aloe vera supports blood sugar control and promotes overall wellness."
+    ],
+    "metadata": {
+      "species": "Aloe barbadensis miller",
+      "common_name": "Aloe vera",
+      "family": "Asphodelaceae",
+      "region": "Africa, Asia, Europe, America, India",
+      "source_url": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC2763764/",
+        "https://en.wikipedia.org/wiki/Aloe_vera",
+        "https://share.google/Fyh1VWiZNUNncbeVg"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Arali (Nerium oleander) is an evergreen shrub with showy white, pink, or red flowers.",
+      "Though highly toxic, it has controlled use in traditional medicine.",
+      "It is used as a cardiotonic, diuretic, and expectorant.",
+      "Root bark oil is applied for skin diseases and infections.",
+      "The plant is also used for fever relief, external treatment of scabies, and even as a natural insecticide."
+    ],
+    "metadata": {
+      "species": "Nerium oleander",
+      "common_name": "Arali, Indian oleander, Rose bay",
+      "family": "Apocynaceae",
+      "region": "India",
+      "source_url": [
+        "https://www.keralauniversity.ac.in/digital_garden/164",
+        "https://en.wikipedia.org/wiki/Nerium"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Avocado (Persea americana) is a fruit tree producing pear-shaped green fruits with creamy flesh and a large seed.",
+      "It is valued for its healthy fats, vitamins, and fiber.",
+      "Medicinally, avocado supports heart health and lowers cholesterol.",
+      "It improves digestion, reduces inflammation, and promotes healthy skin.",
+      "It also helps regulate blood sugar."
+    ],
+    "metadata": {
+      "species": "Persea americana",
+      "common_name": "Avocado",
+      "family": "Lauraceae",
+      "region": "Mexico, Central America",
+      "source_url": [
+        "https://nutritionsource.hsph.harvard.edu/avocados/",
+        "https://en.wikipedia.org/wiki/Avocado",
+        "https://www.medicalnewstoday.com/articles/270406"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Basale (Basella alba) is a climbing vine with green or red stems and thick, heart-shaped leaves.",
+      "It is also called Malabar spinach and is used both as a vegetable and a medicinal plant.",
+      "It is known to treat fever, cough, skin diseases, stomach disorders, and ulcers.",
+      "Basale also promotes hair growth, improves immunity, and reduces inflammation."
+    ],
+    "metadata": {
+      "species": "Basella alba",
+      "common_name": "Basale, Malabar spinach",
+      "family": "Basellaceae",
+      "region": "India, Southeast Asia, New Guinea",
+      "source_url": [
+        "https://worldofsucculents.com/basella-alba-malabar-spinach/",
+        "https://urbanmali.com/blogs/basale-basella-alba"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Brahmi (Bacopa monnieri) is a creeping herb with small succulent green leaves, often found near wetlands.",
+      "It is a renowned brain tonic in Ayurveda.",
+      "Brahmi improves memory, reduces stress and anxiety, and supports liver health.",
+      "It heals ulcers, reduces inflammation, and has anticancer potential.",
+      "It is also used for epilepsy and skin problems."
+    ],
+    "metadata": {
+      "species": "Bacopa monnieri",
+      "common_name": "Brahmi",
+      "family": "Scrophulariaceae",
+      "region": "India",
+      "source_url": [
+        "https://pharmeasy.in/blog/ayurveda-uses-benefits-side-effects-of-brahmi/",
+        "https://en.wikipedia.org/wiki/Bacopa_monnieri",
+        "https://chandigarh.gov.in/brahmi"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Castor (Ricinus communis) is a tall leafy plant with spiny seed capsules, cultivated mainly for castor oil.",
+      "The oil is a powerful laxative and is used for skin care and hair growth.",
+      "Castor also helps treat arthritis, tumors, digestive problems, and infections.",
+      "Its leaves are used in poultices, and the seeds are known for medicinal oil extraction."
+    ],
+    "metadata": {
+      "species": "Ricinus communis",
+      "common_name": "Castor",
+      "family": "Euphorbiaceae",
+      "region": "Africa, India",
+      "source_url": [
+        "https://www.ojs.pphouse.org/index.php/IJEP/article/download/4419/1882/3758",
+        "https://www.healthline.com/nutrition/castor-oil",
+        "https://share.google/dvrSwu9G0Rnywk4Cm"
+      ]
+    }
+  },{
+    "image_path": " ",
+    "captions": [
+      "Citron lime (Citrus medica) is a citrus fruit with rough yellow skin and strong fragrance.",
+      "It is one of the earliest citrus fruits and is rich in vitamin C.",
+      "Medicinally, citron improves digestion, reduces nausea, and cools the body.",
+      "It enhances immunity and helps in weight loss.",
+      "It also supports arthritis relief and skin health."
+    ],
+    "metadata": {
+      "species": "Citrus medica",
+      "common_name": "Citron lime",
+      "family": "Rutaceae",
+      "region": "India, Nepal, Southeast Asia",
+      "source_url": [
+        "https://www.medindia.net/health/diet-and-nutrition/citron-lime-benefits-and-recipes.htm",
+        "https://efloraofindia.com/efi/citrus-maxima-2/",
+        "https://en.wikipedia.org/wiki/Citron"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Curry leaf (Murraya koenigii) is a small aromatic tree with green leaves used in cooking and Ayurveda.",
+      "The leaves are rich in antioxidants and medicinal compounds.",
+      "They improve digestion, lower cholesterol, and control diabetes.",
+      "Curry leaves prevent infections and enhance memory.",
+      "They also protect the liver and support healthy hair growth."
+    ],
+    "metadata": {
+      "species": "Murraya koenigii",
+      "common_name": "Curry leaf",
+      "family": "Rutaceae",
+      "region": "India, Sri Lanka, Bangladesh, China",
+      "source_url": [
+        "https://www.webmd.com/diet/health-benefits-curry-leaf",
+        "https://pharmeasy.in/blog/ayurveda-uses-benefits-side-effects-of-curry-leaves/"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Drumstick tree (Moringa oleifera) is a fast-growing tree with long seed pods and nutritious leaves.",
+      "Known as the 'miracle tree,' it is rich in vitamins and antioxidants.",
+      "Medicinally, it reduces inflammation, heals stomach ulcers, and controls diabetes.",
+      "It lowers cholesterol and boosts immunity.",
+      "Its leaves also improve liver function and support heart health."
+    ],
+    "metadata": {
+      "species": "Moringa oleifera",
+      "common_name": "Drumstick, Moringa",
+      "family": "Moringaceae",
+      "region": "India",
+      "source_url": [
+        "https://www.healthline.com/nutrition/6-benefits-of-moringa-oleifera#antioxidants",
+        "https://en.wikipedia.org/wiki/Moringa_oleifera"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Ganike (Solanum nigrum), also called black nightshade, is a small plant with green leaves and black berries.",
+      "In Ayurveda, it is used to treat fever, stomach disorders, and liver problems.",
+      "The leaves are cooked as food and relieve cough, asthma, and skin diseases.",
+      "Ganike is also helpful in treating ulcers and inflammation."
+    ],
+    "metadata": {
+      "species": "Solanum nigrum",
+      "common_name": "Ganike, Black Nightshade",
+      "family": "Solanaceae",
+      "region": "India",
+      "source_url": [
+        "https://en.wikipedia.org/wiki/Solanum_nigrum",
+        "https://www.iaspaper.net/medicinal-plants-in-india/"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Ginger (Zingiber officinale) is a perennial herb with thick underground rhizomes used as spice and medicine.",
+      "It is widely known to relieve nausea, improve digestion, and reduce inflammation.",
+      "Ginger fights cold and flu, supports heart health, and reduces menstrual pain.",
+      "It also acts as an antioxidant with anti-cancer potential."
+    ],
+    "metadata": {
+      "species": "Zingiber officinale",
+      "common_name": "Ginger",
+      "family": "Zingiberaceae",
+      "region": "Asia",
+      "source_url": [
+        "https://en.wikipedia.org/wiki/Ginger",
+        "https://www.healthline.com/nutrition/11-proven-benefits-of-ginger"
+      ]
+    }
+  },{
+    "image_path": " ",
+    "captions": [
+      "Hibiscus is a tropical plant with large colorful flowers.",
+      "Its petals are used to prepare hibiscus tea, which helps lower blood pressure and cholesterol.",
+      "Hibiscus also supports liver health, improves digestion, and boosts immunity.",
+      "It promotes healthy skin and hair."
+    ],
+    "metadata": {
+      "species": "Hibiscus spp.",
+      "common_name": "Hibiscus",
+      "family": "Malvaceae",
+      "region": "Tropical and subtropical regions",
+      "source_url": [
+        "https://en.wikipedia.org/wiki/Hibiscus",
+        "https://www.healthline.com/nutrition/hibiscus-tea"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Jasmine (Jasminum spp.) is a fragrant flowering plant with white or yellow blossoms.",
+      "It is valued for its calming aroma and is used in teas, perfumes, and medicine.",
+      "Jasmine helps reduce stress, improves sleep, and supports skin health.",
+      "It boosts immunity and relieves digestive issues."
+    ],
+    "metadata": {
+      "species": "Jasminum spp.",
+      "common_name": "Jasmine",
+      "family": "Oleaceae",
+      "region": "Eurasia, Africa, Oceania",
+      "source_url": [
+        "https://en.wikipedia.org/wiki/Jasmine",
+        "https://www.healthline.com/health/jasmine-oil"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Lantana (Lantana camara) is a shrub with brightly colored clustered flowers.",
+      "In folk medicine, it is used to treat cough, cold, and skin diseases.",
+      "Lantana extracts have antimicrobial, anti-inflammatory, and wound-healing properties.",
+      "It also helps relieve asthma, fever, and digestive disorders."
+    ],
+    "metadata": {
+      "species": "Lantana camara",
+      "common_name": "Lantana",
+      "family": "Verbenaceae",
+      "region": "Tropical Americas, Africa, India",
+      "source_url": [
+        "https://en.wikipedia.org/wiki/Lantana",
+        "https://www.researchgate.net/publication/343997991"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Malabar nut (Justicia adhatoda) is a shrub with lance-shaped leaves widely used in Ayurveda.",
+      "Its leaves are famous for treating cough, asthma, and respiratory infections.",
+      "The plant also has anti-inflammatory, expectorant, and antispasmodic properties.",
+      "It supports fever reduction, improves breathing, and boosts immunity."
+    ],
+    "metadata": {
+      "species": "Justicia adhatoda",
+      "common_name": "Malabar nut",
+      "family": "Acanthaceae",
+      "region": "Asia",
+      "source_url": [
+        "https://en.wikipedia.org/wiki/Justicia_adhatoda",
+        "https://www.planetayurveda.com/library/adhatoda-vasica/"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Mint (Mentha spp.) is a fragrant herb with cooling green leaves.",
+      "It is commonly used in teas, oils, and remedies for digestive health.",
+      "Mint relieves nausea, headaches, and respiratory congestion.",
+      "It also has antibacterial, anti-inflammatory, and soothing effects for skin and oral care."
+    ],
+    "metadata": {
+      "species": "Mentha spp.",
+      "common_name": "Mint",
+      "family": "Lamiaceae",
+      "region": "Worldwide",
+      "source_url": [
+        "https://en.wikipedia.org/wiki/Mentha",
+        "https://www.medicalnewstoday.com/articles/275944"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Nerale (Syzygium cumini), also called Jamun or black plum, is a tropical tree with purple fruits.",
+      "The fruit is rich in antioxidants, vitamin C, and iron.",
+      "In Ayurveda, it is used for diabetes management, digestion, and heart health.",
+      "It also boosts immunity, treats ulcers, and helps regulate blood sugar."
+    ],
+    "metadata": {
+      "species": "Syzygium cumini",
+      "common_name": "Nerale, Jamun, Black plum",
+      "family": "Myrtaceae",
+      "region": "Indian Subcontinent, Southeast Asia",
+      "source_url": [
+        "https://en.wikipedia.org/wiki/Syzygium_cumini",
+        "https://www.healthline.com/nutrition/jamun-fruit"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Padri (Stereospermum chelonoides) is a large deciduous tree with yellow trumpet-shaped flowers.",
+      "In traditional medicine, its bark and roots are used to treat fever, cough, and digestive problems.",
+      "Padri helps reduce chest congestion, supports liver health, and strengthens immunity."
+    ],
+    "metadata": {
+      "species": "Stereospermum chelonoides",
+      "common_name": "Padri tree",
+      "family": "Bignoniaceae",
+      "region": "Central India",
+      "source_url": [
+        "https://tropical.theferns.info/viewtropical.php?id=Stereospermum+chelonoides",
+        "https://www.researchgate.net/publication/337807361"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Parijatha (Nyctanthes arbor-tristis) is a small tree with white night-blooming fragrant flowers.",
+      "It is used in Ayurveda to treat fever, arthritis, and respiratory issues.",
+      "The plant supports immunity, relieves cough, and helps in skin disorders.",
+      "Parijatha is considered sacred and widely used in traditional rituals."
+    ],
+    "metadata": {
+      "species": "Nyctanthes arbor-tristis",
+      "common_name": "Parijatha, Night-flowering Jasmine",
+      "family": "Oleaceae",
+      "region": "South Asia",
+      "source_url": [
+        "https://en.wikipedia.org/wiki/Nyctanthes_arbor-tristis",
+        "https://www.planetayurveda.com/library/parijat/"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Pomegranate (Punica granatum) is a shrub with red flowers and fruits filled with juicy seeds.",
+      "The fruit is rich in antioxidants and vitamin C, supporting heart health and immunity.",
+      "It helps lower blood pressure, fights inflammation, reduces cancer risk, improves digestion, and enhances skin health."
+    ],
+    "metadata": {
+      "species": "Punica granatum",
+      "common_name": "Pomegranate",
+      "family": "Lythraceae",
+      "region": "Iran, India, Mediterranean",
+      "source_url": [
+        "https://en.wikipedia.org/wiki/Pomegranate",
+        "https://www.healthline.com/nutrition/pomegranate-benefits"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Rose (Rosa spp.) is a thorny shrub with fragrant colorful flowers.",
+      "The petals are used in perfumes, teas, and Ayurveda remedies.",
+      "Rose helps reduce stress, improves skin health, and soothes digestive problems.",
+      "It also has anti-inflammatory, antibacterial, and heart-supporting benefits."
+    ],
+    "metadata": {
+      "species": "Rosa spp.",
+      "common_name": "Rose",
+      "family": "Rosaceae",
+      "region": "Worldwide",
+      "source_url": [
+        "https://en.wikipedia.org/wiki/Rose",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5334575/"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Seethapala (Annona squamosa), also called custard apple, is a small tree with green fruits containing sweet creamy pulp.",
+      "The fruit is nutritious and rich in vitamins and minerals.",
+      "Medicinally, it improves digestion, boosts immunity, reduces diabetes symptoms, fights anemia, strengthens bones, and has antioxidant effects."
+    ],
+    "metadata": {
+      "species": "Annona squamosa",
+      "common_name": "Seethapala, Custard apple",
+      "family": "Annonaceae",
+      "region": "India, Tropical America",
+      "source_url": [
+        "https://en.wikipedia.org/wiki/Annona_squamosa",
+        "https://www.netmeds.com/health-library/post/custard-apple"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Tecoma (Tecoma stans) is a flowering shrub with bright yellow trumpet-shaped blossoms.",
+      "In folk medicine, its leaves and flowers are used to manage diabetes and digestive disorders.",
+      "Tecoma reduces inflammation, improves circulation, supports liver health, and strengthens immunity."
+    ],
+    "metadata": {
+      "species": "Tecoma stans",
+      "common_name": "Tecoma, Yellow trumpetbush",
+      "family": "Bignoniaceae",
+      "region": "Americas",
+      "source_url": [
+        "https://tropical.theferns.info/viewtropical.php?id=tecoma+stans",
+        "https://www.researchgate.net/publication/347998216"
+      ]
+    }
+  },
+  {
+    "image_path": " ",
+    "captions": [
+      "Tulsi (Ocimum tenuiflorum), also called Holy Basil, is a sacred plant with aromatic leaves.",
+      "It is highly valued in Ayurveda for immunity and respiratory health.",
+      "Tulsi treats cough, cold, fever, and stress.",
+      "It also purifies blood, controls diabetes, supports heart health, and protects against infections."
+    ],
+    "metadata": {
+      "species": "Ocimum tenuiflorum",
+      "common_name": "Tulsi, Holy Basil",
+      "family": "Lamiaceae",
+      "region": "India, Southeast Asia",
+      "source_url": [
+        "https://en.wikipedia.org/wiki/Ocimum_tenuiflorum",
+        "https://www.healthline.com/nutrition/holy-basil"
+      ]
+    }
+  },{
+  "image_path": " ",
+  "captions": [
+    "Camphor tree (Camphora officinarum) is an evergreen tree with glossy green leaves.",
+    "Camphor is extracted from its wood and used in medicine and rituals.",
+    "It relieves cough, congestion, and pain.",
+    "Camphor also improves circulation, treats skin infections, reduces inflammation, and repels insects."
+  ],
+  "metadata": {
+    "species": "Camphora officinarum",
+    "common_name": "Camphor tree",
+    "family": "Lauraceae",
+    "region": "China, Japan, India",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Camphora_officinarum",
+      "https://www.medicalnewstoday.com/articles/camphor"
+    ]
+  }
+}
+]
