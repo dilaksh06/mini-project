@@ -100,6 +100,31 @@
         }
     },
     {
+    "image_path": "image/graptophyllum_pictum",
+    "captions": [
+        "Tropical evergreen shrub with striking variegated foliage",
+        "Leaves mottled in cream, pink, chocolate or yellow over green — decorative and eye-catching",
+        "Used traditionally for wounds, ulcers, swelling, constipation, earaches and menstrual disorders",
+        "Exhibits anti-inflammatory, analgesic, antidiabetic, antiplaque, oxytocic and anti-implantation effects in studies",
+        "Leaves contain saponins and act as mild soap substitute in folk practice",
+        "Grows to ~3.5 m, prefers moist well-drained soil, tolerates shade, and responds well to pruning",
+        "Propagates easily from cuttings; rooted in ~4-6 weeks"
+    ],
+        "metadata": {
+            "species": "Graptophyllum pictum",
+            "common_name": "Caricature Plant / Kalpeung",
+            "family": "Acanthaceae",
+            "region": "Native to New Guinea; cultivated widely in tropical Asia and tropical gardens",
+            "source_urls": [
+            "https://tropical.theferns.info/viewtropical.php?id=Graptophyllum+pictum",
+            "https://en.wikipedia.org/wiki/Graptophyllum_pictum",
+            "https://www.stuartxchange.org/Kalpueng.html",
+            "https://brc.iber.ubd.edu.bn/medplant/caricature-plant/",
+            "https://www.stuartxchange.org/Kalpueng.html"
+            ]
+        }
+    },
+    {
         "image_path": "image/",
         "captions": [
           
