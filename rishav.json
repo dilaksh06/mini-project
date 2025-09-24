@@ -135,8 +135,13 @@
         "Caution: may cause gastrointestinal irritation, skin burning, worsen ulcers; avoid high doses in sensitive individuals"
     ],
     "metadata": {
+<<<<<<< HEAD
         "species": "Capsicum",
         "common_name": "Chili / Chili Pepper / Capsicum",
+=======
+        "species": "Capsicum spp. (e.g. C. annuum, C. frutescens)",
+        "common_name": ["Chil", "Chili Pepper" , "Capsicum"],
+>>>>>>> f90ec090d9c510ff2c85329cc0eb9b81f0ea3e8c
         "family": "Solanaceae",
         "region": "Native to Central & South America; now widespread in tropical, subtropical, and temperate regions",
         "source_urls": [
