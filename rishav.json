@@ -14,7 +14,7 @@
         ],
         "metadata": {
             "species": "Tinospora Cordifolia",
-            "common_name": ["Giloy","Amrita","Guduchi","Tinospora Cordifolia"],
+            "common_name": "Giloy / Amrita / Guduchi / Tinospora Cordifolia",
             "family": "Menispermaceae",
             "region": "tropical and subtropical zones of India and other areas in South and Southeast Asia, including Myanmar and Sri Lanka",
             "source_urls": [
@@ -39,7 +39,7 @@
         ],
         "metadata": {
             "species" : "Asthma-plant",
-            "common_name" : ["Euphorbia hirta","asthma weed","tawa-tawa"],
+            "common_name" : "Euphorbia hirta / asthma weed / tawa-tawa",
             "family" : "Euphorbiaceae",
             "region" : "originating from the tropical regions of the Americas",
             "source_urls": [
@@ -64,7 +64,7 @@
     ],
         "metadata": {
             "species": "Bambusa arundinacea",
-            "common_name": ["Bans"],
+            "common_name": "Bans",
             "family": "Poaceae (Grass family)",
             "region": "Asia, Africa, and the Americas; thrives in tropical and mountainous climates",
             "source_urls": [
@@ -88,7 +88,7 @@
     ],
         "metadata": {
             "species": "Areca catechu",
-            "common_name": ["Betel Nut"],
+            "common_name": "Betel Nut",
             "family": "Arecaceae (Palm family)",
             "region": "Tropical Asia and many tropical regions; widely used in South Asia, Southeast Asia",
             "source_urls": [
@@ -112,7 +112,7 @@
     ],
         "metadata": {
             "species": "Graptophyllum pictum",
-            "common_name": ["Caricature Plant", "Kalpeung"],
+            "common_name": "Caricature / Kalpeung",
             "family": "Acanthaceae",
             "region": "Native to New Guinea; cultivated widely in tropical Asia and tropical gardens",
             "source_urls": [
@@ -148,7 +148,31 @@
         ]
     }
     },
-
+    {
+    "image_path": "image/coriander",
+    "captions": [
+        "An annual herb whose leaves (cilantro), seeds, and roots are all used medicinally and culinarily",
+        "Rich in essential oils (especially linalool), vitamins A, C, K, minerals, antioxidants and polyphenols",
+        "May help lower blood sugar, improve lipid profiles, and support metabolic health",
+        "Supports digestion, relieves bloating/gas, and aids detoxification of heavy metals",
+        "Has antioxidant, anti-inflammatory and antimicrobial effects against pathogens",
+        "Beneficial for cardiovascular health via diuretic and vasodilatory properties",
+        "Used in Ayurveda as a cooling herb, applied for skin rashes and Pitta balance"
+    ],
+    "metadata": {
+        "species": "Coriandrum sativum",
+        "common_name": "Coriander / Cilantro / Dhaniya",
+        "family": "Apiaceae",
+        "region": "Native to Mediterranean / Western Asia; cultivated worldwide",
+        "source_urls": [
+        "https://www.webmd.com/vitamins/ai/ingredientmono-117/coriander",
+        "https://www.healthline.com/nutrition/coriander-benefits",
+        "https://en.wikipedia.org/wiki/Coriander",
+        "https://www.dabur.com/ayurveda/ayurvedic-medicinal-plants/dhaniya-coriander",
+        "https://www.ejmanager.com/mnstemps/11/11-1292220305.pdf"
+        ]
+    }
+    },
     {
         "image_path": "image/",
         "captions": [
@@ -163,9 +187,6 @@
                 
             ]
         }
-    },
-    {
-        
     }
 
 ]
