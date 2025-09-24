@@ -100,7 +100,7 @@
         }
     },
     {
-    "image_path": "image/graptophyllum_pictum",
+    "image_path": "image/Caricature",
     "captions": [
         "Tropical evergreen shrub with striking variegated foliage",
         "Leaves mottled in cream, pink, chocolate or yellow over green — decorative and eye-catching",
@@ -112,7 +112,7 @@
     ],
         "metadata": {
             "species": "Graptophyllum pictum",
-            "common_name": "Caricature Plant / Kalpeung",
+            "common_name": ["Caricature Plant", "Kalpeung"],
             "family": "Acanthaceae",
             "region": "Native to New Guinea; cultivated widely in tropical Asia and tropical gardens",
             "source_urls": [
@@ -124,6 +124,31 @@
             ]
         }
     },
+    {
+    "image_path": "image/chili",
+    "captions": [
+        "Spicy fruit of the genus Capsicum, characterized by the bioactive capsaicin in internal tissues",
+        "Rich in antioxidants, vitamins (C, A, E), carotenoids, flavonoids and phenolic acids",
+        "Capsaicin supports metabolic health: improves insulin sensitivity, lipids, circulation, and weight control",
+        "Used in topical formulations for pain relief—arthritis, neuralgia, neuropathy—via desensitizing pain pathways",
+        "Traditionally employed for digestive support, coughs, colds, sore throat, appetite stimulation",
+        "Caution: may cause gastrointestinal irritation, skin burning, worsen ulcers; avoid high doses in sensitive individuals"
+    ],
+    "metadata": {
+        "species": "Capsicum spp. (e.g. C. annuum, C. frutescens)",
+        "common_name": "Chili / Chili Pepper / Capsicum",
+        "family": "Solanaceae",
+        "region": "Native to Central & South America; now widespread in tropical, subtropical, and temperate regions",
+        "source_urls": [
+        "https://www.herbalreality.com/herb/chilli-peppers/",
+        "https://medcraveonline.com/MOJFPT/medicinal-uses-and-health-benefits-of-chili-pepper-capsicumnbspspp-a-review.html",
+        "https://www.easyayurveda.com/2017/02/03/red-chilli-capsicum-annuum-bell-pepper/",
+        "https://en.wikipedia.org/wiki/Chili_pepper",
+        "https://www.pw.live/school-prep/exams/chilli-botanical-name"
+        ]
+    }
+    },
+
     {
         "image_path": "image/",
         "captions": [
