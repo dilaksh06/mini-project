@@ -31,7 +31,7 @@
         "captions": [
             "Asthma weed is used in the treatment of asthma and several lung related respiratory diseases",
             " It is also consumed in herbal tea form as folk medicine for fevers in the Philippines called (tawa-tawa)",
-            "Asthma Weed (Euphorbia hirta Linn.) is an endemic plant species that is rich in phytochemicals",
+            "Asthma Weed Euphorbia hirta Linn. is an endemic plant species that is rich in phytochemicals",
             "It is often used traditionally for female disorders, particularly for dengue fever and malaria",
             "it also cause  worm infestations in children, dysentery, jaundice, pimples, gonorrhea, digestive problems, and tumors",
             "These leaves are dark green or yellow reddish with purplish markings",
@@ -65,7 +65,7 @@
         "metadata": {
             "species": "Bambusa arundinacea",
             "common_name": "Bans",
-            "family": "Poaceae (Grass family)",
+            "family": "Poaceae Grass family",
             "region": "Asia, Africa, and the Americas; thrives in tropical and mountainous climates",
             "source_urls": [
             "https://www.1mg.com/ayurveda/bamboo-227?srsltid=AfmBOopifwslVnvWPzpGMqqkZbajvnQax7rD1fy5dyqLTxSoZIBwxgOB&wpsrc=Google+Organic+Search",
@@ -80,7 +80,7 @@
     "image_path": "image/betel_nut",
     "captions": [
         "Seed of the Areca catechu palm, commonly known as betel nut, supari or areca nut",
-        "Contains alkaloids (arecoline etc.), polyphenols, flavonoids and minerals responsible for its effects",
+        "Contains alkaloids arecoline etc., polyphenols, flavonoids and minerals responsible for its effects",
         "Used traditionally in Ayurveda to aid digestion, treat worms & diarrhea, improve oral hygiene and relieve joint pain",
         "Short-term effects: alertness, increased saliva, heightened heart rate, possible dizziness and sweating",
         "Long-term use linked to oral ulcers, gum disease, precancerous lesions, cancers and dependence",
@@ -89,7 +89,7 @@
         "metadata": {
             "species": "Areca catechu",
             "common_name": "Betel Nut",
-            "family": "Arecaceae (Palm family)",
+            "family": "Arecaceae Palm family",
             "region": "Tropical Asia and many tropical regions; widely used in South Asia, Southeast Asia",
             "source_urls": [
             "https://www.drugs.com/npc/betel-nut.html",
@@ -128,14 +128,14 @@
     "image_path": "image/chili",
     "captions": [
         "Spicy fruit of the genus Capsicum, characterized by the bioactive capsaicin in internal tissues",
-        "Rich in antioxidants, vitamins (C, A, E), carotenoids, flavonoids and phenolic acids",
+        "Rich in antioxidants, vitamins C, A, E, carotenoids, flavonoids and phenolic acids",
         "Capsaicin supports metabolic health: improves insulin sensitivity, lipids, circulation, and weight control",
         "Used in topical formulations for pain relief—arthritis, neuralgia, neuropathy—via desensitizing pain pathways",
         "Traditionally employed for digestive support, coughs, colds, sore throat, appetite stimulation",
         "Caution: may cause gastrointestinal irritation, skin burning, worsen ulcers; avoid high doses in sensitive individuals"
     ],
     "metadata": {
-        "species": "Capsicum spp. (e.g. C. annuum, C. frutescens)",
+        "species": "Capsicum",
         "common_name": "Chili / Chili Pepper / Capsicum",
         "family": "Solanaceae",
         "region": "Native to Central & South America; now widespread in tropical, subtropical, and temperate regions",
@@ -151,8 +151,8 @@
     {
     "image_path": "image/coriander",
     "captions": [
-        "An annual herb whose leaves (cilantro), seeds, and roots are all used medicinally and culinarily",
-        "Rich in essential oils (especially linalool), vitamins A, C, K, minerals, antioxidants and polyphenols",
+        "An annual herb whose leaves cilantro, seeds, and roots are all used medicinally and culinarily",
+        "Rich in essential oils especially linalool, vitamins A, C, K, minerals, antioxidants and polyphenols",
         "May help lower blood sugar, improve lipid profiles, and support metabolic health",
         "Supports digestion, relieves bloating/gas, and aids detoxification of heavy metals",
         "Has antioxidant, anti-inflammatory and antimicrobial effects against pathogens",
