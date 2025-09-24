@@ -136,7 +136,7 @@
     ],
     "metadata": {
         "species": "Capsicum spp. (e.g. C. annuum, C. frutescens)",
-        "common_name": "Chili / Chili Pepper / Capsicum",
+        "common_name": ["Chil", "Chili Pepper" , "Capsicum"],
         "family": "Solanaceae",
         "region": "Native to Central & South America; now widespread in tropical, subtropical, and temperate regions",
         "source_urls": [
