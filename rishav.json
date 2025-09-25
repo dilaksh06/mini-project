@@ -135,13 +135,8 @@
         "Caution: may cause gastrointestinal irritation, skin burning, worsen ulcers; avoid high doses in sensitive individuals"
     ],
     "metadata": {
-<<<<<<< HEAD
         "species": "Capsicum",
         "common_name": "Chili / Chili Pepper / Capsicum",
-=======
-        "species": "Capsicum spp. (e.g. C. annuum, C. frutescens)",
-        "common_name": ["Chil", "Chili Pepper" , "Capsicum"],
->>>>>>> f90ec090d9c510ff2c85329cc0eb9b81f0ea3e8c
         "family": "Solanaceae",
         "region": "Native to Central & South America; now widespread in tropical, subtropical, and temperate regions",
         "source_urls": [
@@ -175,6 +170,32 @@
         "https://en.wikipedia.org/wiki/Coriander",
         "https://www.dabur.com/ayurveda/ayurvedic-medicinal-plants/dhaniya-coriander",
         "https://www.ejmanager.com/mnstemps/11/11-1292220305.pdf"
+        ]
+    }
+    },
+    {
+    "image_path": "image/Doddapatre",
+    "captions": [
+        "A succulent aromatic herb Plectranthus amboinicus with pungent, fleshy leaves and strong fragrance",
+        "Leaves rich in vitamin C, calcium, iron, antioxidants like rosmarinic acid",
+        "Traditionally used to relieve cough, cold, nasal congestion and asthma",
+        "Applied externally for skin rashes, insect bites, headaches, wound healing",
+        "Supports digestion, detoxification, and may help expel intestinal worms",
+        "Shows antimicrobial, anti-inflammatory, and wound healing effects",
+        "Used in chutneys, rasams, thambuli, and as a flavorful herb in cooking",
+        "Also acts as mild diuretic, supports kidney health, and is employed for dandruff / hair uses"
+    ],
+    "metadata": {
+        "species": "Plectranthus amboinicus",
+        "common_name": "Indian Borage / Doddapatre / Karpooravalli / Omavalli",
+        "family": "Lamiaceae (Mint family)",
+        "region": "Tropical and subtropical regions; widely grown in India and Asia",
+        "source_urls": [
+        "https://swayampaaka.com/nutrition/health-benefits-of-doddapatre-indian-borage-remedies/",
+        "https://urbanmali.com/blogs/doddapatre",
+        "https://vegrecipesofkarnataka.com/collection-recipes-doddapathre.php",
+        "https://hebbarskitchen.com/ajwain-leaves-benefits-uses/",
+        "https://urbanmali.com/blogs/doddapatre-leaf"
         ]
     }
     },
