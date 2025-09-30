@@ -1,0 +1,245 @@
+[
+  {
+  "image_path": "images/amla_1.jpg",
+  "captions": [
+    "Amla tree with green round fruits",
+    "Phyllanthus emblica rich in vitamin C",
+    "Ayurvedic fruit for boosting immunity",
+    "Antioxidant-rich plant used in medicine",
+    "Fruit with anti-diabetic and anti-inflammatory properties"
+  ],
+  "metadata": {
+    "species": "Phyllanthus emblica L.",
+    "common_name": "Amla",
+    "family": "Phyllanthaceae",
+    "region": "India and Southeast Asia",
+    "source_urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9137578/",
+      "https://www.sciencedirect.com/science/article/abs/pii/S245201442030234X"
+    ]
+  }
+},
+  {
+  "image_path": "images/ashoka_1.jpg",
+  "captions": [
+    "Ashoka tree with lush green leaves and fragrant flowers",
+    "Sacred evergreen tree native to India",
+    "Bark traditionally used for gynecological health",
+    "Flowers bloom in clusters, turning from orange-yellow to red",
+    "Medicinal plant used to treat dyspepsia, piles, and sores"
+  ],
+  "metadata": {
+    "species": "Saraca asoca",
+    "common_name": "Ashoka",
+    "family": "Fabaceae",
+    "region": "India – Deccan plateau and Western Ghats",
+    "source_urls": [
+      "https://www.sctimst.ac.in/sv/tree.php?id=1",
+      "https://growbilliontrees.com/blogs/tree-stories/ashoka-tree-serene-blossoms-and-cultural-reverence"
+    ]
+  }
+},
+  {
+  "image_path": "images/badipala_1.jpg",
+  "captions": [
+    "Wrightia tinctoria tree with narrow lance-shaped leaves",
+    "Small deciduous tree with scaly bark",
+    "Traditional source of natural indigo dye",
+    "Medicinal plant used for treating skin diseases and fever",
+    "Valued in Ayurveda and Sidha medicine systems"
+  ],
+  "metadata": {
+    "species": "Wrightia tinctoria",
+    "common_name": "Badipala",
+    "family": "Apocynaceae",
+    "region": "India and Southeast Asia",
+    "source_urls": [
+      "https://www.rajagiricollege.edu.in/rajeevani-post/wrightia-tinctoria-roxb-r-br/",
+      "https://www.cabidigitallibrary.org/doi/abs/10.1079/cabicompendium.56846",
+      "https://www.agropack.in/agropack_plantinnerdetails.php?catid=91-146&itemid=335"
+    ]
+  }
+},
+  {
+  "image_path": "images/beans_1.jpg",
+  "captions": [
+    "Bean plant with green pods containing edible seeds",
+    "Legume family plant widely cultivated worldwide",
+    "Rich in protein, fiber, vitamins, and minerals",
+    "Includes kidney beans, black beans, chickpeas, and lentils",
+    "Staple crop used in diets, livestock feed, and fertilizers"
+  ],
+  "metadata": {
+    "species": "Fabaceae (various species)",
+    "common_name": "Beans",
+    "family": "Fabaceae",
+    "region": "Worldwide",
+    "source_urls": [
+      "https://nutritionsource.hsph.harvard.edu/legumes-pulses/",
+      "https://www.ndsu.edu/agriculture/extension/publications/all-about-beans-nutrition-health-benefits-preparation-and-use-menus"
+    ]
+  }
+},
+  {
+  "image_path": "images/brahmi_1.jpg",
+  "captions": [
+    "Bacopa monnieri plant with small green succulent leaves",
+    "Aquatic medicinal herb used in Ayurveda for centuries",
+    "Popular memory booster and stress reliever herb",
+    "Contains bacosides that support brain health",
+    "Widely used in Ayurvedic tonics for cognitive function"
+  ],
+  "metadata": {
+    "species": "Bacopa monnieri",
+    "common_name": "Brahmi",
+    "family": "Plantaginaceae",
+    "region": "India and tropical Asia",
+    "source_urls": [
+      "https://www.healthline.com/nutrition/bacopa-monnieri-benefits",
+      "https://pharmeasy.in/blog/ayurveda-uses-benefits-side-effects-of-brahmi/"
+    ]
+  }
+},
+  {
+  "image_path": "images/catharanthus_1.jpg",
+  "captions": [
+    "Catharanthus roseus plant with pink and white flowers",
+    "Medicinal plant producing anticancer alkaloids like vinblastine and vincristine",
+    "Traditionally used for diabetes and infections",
+    "Modern research explores its role in cancer and neuroprotection",
+    "Ornamental plant also known as Madagascar periwinkle"
+  ],
+  "metadata": {
+    "species": "Catharanthus roseus",
+    "common_name": "Catharanthus (Madagascar Periwinkle)",
+    "family": "Apocynaceae",
+    "region": "Native to Madagascar, cultivated in India and worldwide",
+    "source_urls": [
+      "https://agriculture.vikaspedia.in/viewcontent/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/catharanthus-roseus-1?lgn=en",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11982050/",
+      "https://www.sciencedirect.com/science/article/abs/pii/S037887412100876X"
+    ]
+  }
+},
+  {
+  "image_path": "images/coffee_1.jpg",
+  "captions": [
+    "Coffea arabica plant with bright red coffee cherries",
+    "Source of one of the world’s most popular beverages",
+    "Plant native to tropical Africa and widely cultivated",
+    "Coffee beans rich in antioxidants and bioactive compounds",
+    "Coffee oil used in traditional medicine and modern health research"
+  ],
+  "metadata": {
+    "species": "Coffea arabica",
+    "common_name": "Coffee",
+    "family": "Rubiaceae",
+    "region": "Tropical Africa, cultivated worldwide",
+    "source_urls": [
+      "https://www.britannica.com/plant/Coffea",
+      "https://sca.coffee/research/coffee-plants-of-the-world",
+      "https://www.als-journal.com/813-20/"
+    ]
+  }
+},
+  {
+  "image_path": "images/curry_leaf_1.jpg",
+  "captions": [
+    "Curry leaf plant with clusters of aromatic green leaves",
+    "Widely used in Indian cuisine for flavoring dishes",
+    "Leaves rich in vitamins A, B, C, and minerals like calcium and iron",
+    "Traditional Ayurvedic plant for improving digestion and hair growth",
+    "Essential oil used in perfumes and herbal medicine"
+  ],
+  "metadata": {
+    "species": "Bergera koenigii",
+    "common_name": "Curry Leaf",
+    "family": "Rutaceae",
+    "region": "Native to India, cultivated in tropical Asia",
+    "source_urls": [
+      "https://www.gardeningknowhow.com/edible/herbs/curry/growing-curry-leaf.htm",
+      "https://indianculture.gov.in/food-and-culture/spices-herbs/curry-leaf-versatile-wonder-plant",
+      "https://iimtu.edu.in/blog/curry-leaves-morphology-tradition-health-benefits/"
+    ]
+  }
+},
+  {
+  "image_path": "images/ekka_1.jpg",
+  "captions": [
+    "Calotropis gigantea with large white and purple flowers",
+    "Traditional medicinal plant used for treating coughs and colds",
+    "Known for anti-inflammatory and antimicrobial properties",
+    "Used in Ayurveda and folk medicine for skin diseases and asthma",
+    "Also applied for snake bites, scorpion stings, and wound healing"
+  ],
+  "metadata": {
+    "species": "Calotropis gigantea",
+    "common_name": "Ekka",
+    "family": "Apocynaceae",
+    "region": "Native to India and Southeast Asia, also found in Africa",
+    "source_urls": [
+      "https://urbanmali.com/blogs/ekka-calotropis-gigantea"
+    ]
+  }
+},
+  {
+  "image_path": "images/gasagase_1.jpg",
+  "captions": [
+    "Opium poppy plant producing small round seeds",
+    "Poppy seeds used as spice and garnish in cooking",
+    "Rich in minerals like zinc, magnesium, and copper",
+    "Seeds known to pacify fever, thirst, and abdominal discomfort",
+    "Traditional herb with benefits for heart health and digestion"
+  ],
+  "metadata": {
+    "species": "Papaver somniferum",
+    "common_name": "Gasagase (Poppy Seeds)",
+    "family": "Papaveraceae",
+    "region": "Cultivated in Asia, Europe, and worldwide",
+    "source_urls": [
+      "https://www.easyayurveda.com/2015/01/18/opium-poppy-seeds-benefits-research-dose-side-effects/",
+      "https://www.webmd.com/vitamins/ai/ingredientmono-1503/poppy-seed"
+    ]
+  }
+},
+  {
+  "image_path": "images/globe_amarnath_1.jpg",
+  "captions": [
+    "Globe amaranth plant with bright round blossoms",
+    "Flowers come in shades of pink, purple, red, orange, and white",
+    "Tropical annual plant native to Central America",
+    "Blooms from summer through frost on upright spikes",
+    "Popular ornamental plant with long-lasting colorful bracts"
+  ],
+  "metadata": {
+    "species": "Gomphrena globosa",
+    "common_name": "Globe Amarnath",
+    "family": "Amaranthaceae",
+    "region": "Native to Central America, cultivated worldwide",
+    "source_urls": [
+      "https://hort.extension.wisc.edu/articles/globe-amaranth-gomphrena-globosa/",
+      "https://plants.ces.ncsu.edu/plants/gomphrena-globosa/"
+    ]
+  }
+},
+  {
+  "image_path": "images/honge_1.jpg",
+  "captions": [
+    "Pongamia pinnata tree with green foliage and clusters of flowers",
+    "Medium-sized legume tree producing oil-rich seeds",
+    "Seed oil used for medicinal, lubricating, and biofuel purposes",
+    "Also known as Indian Beech or Karanja Tree",
+    "Fast-growing tree valued in agroforestry and Ayurveda"
+  ],
+  "metadata": {
+    "species": "Pongamia pinnata (syn. Millettia pinnata)",
+    "common_name": "Honge (Indian Beech Tree)",
+    "family": "Fabaceae",
+    "region": "Native to tropical and temperate Asia",
+    "source_urls": [
+      "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/pongamia-pinnata",
+      "https://www.renature.co/commodities/pongamia/"
+    ]
+  }
+},
+  
