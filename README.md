@@ -8,7 +8,7 @@
 https://github.com/dilaksh06/mini-project.git
 
 ## Mobile app
-https://github.com/dilaksh06/medbotanica.git
+https://github.com/dilaksh06/medbotanica-new.git
 
 ## Web app
 https://github.com/dilaksh06/medbotanica-web.git
