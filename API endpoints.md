@@ -1,3 +1,7 @@
+Got it ✅ — here’s the **fully updated `README.md`** file for your **MedBotanica API**, now matching the latest backend design for the **caption (prediction)** endpoint, including JWT header authentication and improved response structure.
+
+---
+
 # MedBotanica API Documentation
 
 ---
@@ -60,7 +64,8 @@ POST {base-URL}/user/login
 ```
 
 **Description:**  
-Logs in an existing user with email & password. If valid, generates a JWT token.
+Logs in an existing user with email & password.  
+If valid, generates a **JWT token** that must be used for protected routes.
 
 **Request Body:**
 
@@ -126,41 +131,98 @@ Logs out the user by clearing the token on the client side.
 **Endpoint:**
 
 ```
-POST {base-URL}/prediction
+POST {base-URL}/user/prediction
+```
+
+**Authentication Required:** ✅ Yes (JWT Token)
+
+**Headers:**
+
+```
+Authorization: Bearer <jwt_token>
+Content-Type: multipart/form-data
 ```
 
 **Description:**  
-A logged-in user sends an image. The backend runs an image captioning model and returns a name/label with 5–6 possible captions.
+A logged-in user uploads an image.  
+The backend authenticates the user using the token, processes the image through the **image captioning model**, and returns:
 
-**Request Body:**
+- The **predicted label** (e.g., herbal plant name)
+    
+- **Top captions** generated for the image
+    
+- Model metadata such as confidence and version
+    
 
-```json
-{
-  "user_id": "64f1c123456789",
-  "image": "<base64_encoded_image_or_file_upload>"
-}
+---
+
+### 🧠 Example Request (Form Data)
+
+|Key|Type|Description|
+|---|---|---|
+|`image`|File|Image file to caption (e.g., `.jpg`, `.png`)|
+
+**Example using Axios (TypeScript / React):**
+
+```tsx
+const formData = new FormData();
+formData.append("image", selectedFile);
+
+const response = await axios.post(
+  `${BASE_URL}/user/prediction`,
+  formData,
+  {
+    headers: {
+      Authorization: `Bearer ${token}`,
+      "Content-Type": "multipart/form-data"
+    }
+  }
+);
+
+console.log(response.data);
 ```
 
-**Response Body:**
+---
+
+**Response Body (Success):**
 
 ```json
 {
   "message": "Prediction successful",
-  "image_label": "Motorcyclist without helmet",
-  "captions": [
-    "A man riding a motorcycle",
-    "The rider is not wearing a helmet",
-    "A bike is on the road during the day",
-    "Traffic visible in the background",
-    "Potential safety violation detected",
-    "Urban environment with vehicles"
-  ]
+  "data": {
+    "image_label": "Ocimum tenuiflorum (Tulsi)",
+    "captions": [
+      "A green herbal plant with oval leaves",
+      "This looks like holy basil growing in a pot",
+      "Close-up of Tulsi plant leaves",
+      "An herbal plant used for medicinal purposes",
+      "A small plant with green leaves and stem"
+    ],
+    "confidence": 0.94,
+    "model_version": "v1.0.2"
+  }
+}
+```
+
+**Response Body (Failure - Invalid Token):**
+
+```json
+{
+  "message": "Invalid or expired token"
+}
+```
+
+**Response Body (Failure - Model Error):**
+
+```json
+{
+  "message": "Prediction failed. Please try again later."
 }
 ```
 
 ---
 
-## User Models
+## 🧩 User Models
 
 ### User Document
 
@@ -174,6 +236,8 @@ A logged-in user sends an image. The backend runs an image captioning model and 
   "created_at": "2025-09-30T12:34:56Z"
 }
 ```
+
+---
 
 ### Request Models
 
@@ -199,15 +263,17 @@ A logged-in user sends an image. The backend runs an image captioning model and 
 }
 ```
 
-- **PredictionRequest**
+- **PredictionRequest (FormData or base64)**  
+    _(Sent via multipart/form-data or as JSON)_
     
 
 ```json
 {
-  "user_id": "string",
   "image": "base64 encoded image or file"
 }
 ```
+
+---
 
 ### Response Models
 
@@ -241,7 +307,36 @@ A logged-in user sends an image. The backend runs an image captioning model and 
 ```json
 {
   "message": "Prediction successful",
-  "image_label": "string",
-  "captions": ["string", "string", "string", "string", "string"]
+  "data": {
+    "image_label": "string",
+    "captions": ["string", "string", "string", "string", "string"],
+    "confidence": "float",
+    "model_version": "string"
+  }
 }
 ```
+
+---
+
+## 🔐 Authentication Notes
+
+- All authenticated routes require a **JWT** in the header.
+    
+- Format:
+    
+    ```
+    Authorization: Bearer <jwt_token>
+    ```
+    
+- Tokens expire after a predefined duration (configured in backend).
+    
+- Invalid or expired tokens return:
+    
+    ```json
+    { "message": "Invalid or expired token" }
+    ```
+    
+
+---
+
+Would you like me to add an **extra example section** showing how to send the image request using **Fetch API** too (besides Axios)? It helps if you plan to document frontend integration in this README.
