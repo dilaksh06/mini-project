@@ -242,4 +242,213 @@
     ]
   }
 },
+  {
+  "image_path": "images/kambajala_1.jpg",
+  "captions": [
+    "Hopea parviflora tree with dense green foliage",
+    "Large evergreen tree native to the Western Ghats of India",
+    "Valued for its strong, termite-resistant timber",
+    "Bark and extracts used for wound healing and inflammation",
+    "Considered a threatened species due to overexploitation"
+  ],
+  "metadata": {
+    "species": "Hopea parviflora",
+    "common_name": "Kambajala (Kambakam)",
+    "family": "Dipterocarpaceae",
+    "region": "Western Ghats, India",
+    "source_urls": [
+      "https://www.wisdomlib.org/definition/kambakam",
+      "https://mssbg.mssrf.org/hopea-ponga-dennst-mabb/"
+    ]
+  }
+},
+  {
+  "image_path": "images/lemon_1.jpg",
+  "captions": [
+    "Lemon tree with bright yellow fruits and glossy green leaves",
+    "Citrus fruit rich in vitamin C and citric acid",
+    "Used worldwide in cooking, beverages, and traditional medicine",
+    "Known for boosting immunity and aiding digestion",
+    "Small evergreen tree producing fragrant white flowers"
+  ],
+  "metadata": {
+    "species": "Citrus × limon",
+    "common_name": "Lemon",
+    "family": "Rutaceae",
+    "region": "Native to Asia, now cultivated worldwide",
+    "source_urls": [
+      "https://www.healthline.com/nutrition/foods/lemons#nutrition",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7020168/",
+      "https://www.britannica.com/plant/lemon"
+    ]
+  }
+},
+  {
+  "image_path": "images/malabar_spinach_1.jpg",
+  "captions": [
+    "Malabar spinach vine with thick glossy green leaves",
+    "Fast-growing tropical plant used as a leafy vegetable",
+    "Rich in vitamins A, B, C, iron, calcium, and antioxidants",
+    "Climbing vine that thrives in warm, humid climates",
+    "Commonly used in soups, stir-fries, and traditional dishes"
+  ],
+  "metadata": {
+    "species": "Basella alba",
+    "common_name": "Malabar Spinach",
+    "family": "Basellaceae",
+    "region": "Native to tropical Asia, cultivated worldwide",
+    "source_urls": [
+      "https://hort.extension.wisc.edu/articles/malabar-spinach-basella-alba/",
+      "https://edis.ifas.ufl.edu/publication/HS1371",
+      "https://foodprint.org/real-food/malabar-spinach/"
+    ]
+  }
+},
+  {
+  "image_path": "images/nagadali_1.jpg",
+  "captions": [
+    "Rue plant with aromatic bluish-green leaves and yellow flowers",
+    "Medicinal and ornamental herb known for its strong aroma",
+    "Used in Ayurveda and Mediterranean cuisine for centuries",
+    "Traditionally valued for insect-repelling and protective properties",
+    "Commonly used in Ethiopian and Greek traditional preparations"
+  ],
+  "metadata": {
+    "species": "Ruta graveolens",
+    "common_name": "Nagadali (Rue, Herb of Grace)",
+    "family": "Rutaceae",
+    "region": "Native to the Balkan Peninsula, cultivated worldwide",
+    "source_urls": [
+      "https://nisarganursery.in/product/nagadali/",
+      "https://myowngarden.net/products/nagathali-plant?sku_id=52204274",
+      "http://wisdomlib.org/definition/nagadali"
+    ]
+  }
+},
+  {
+  "image_path": "images/nithyapushpa_1.jpg",
+  "captions": [
+    "Catharanthus roseus plant with pink and white blossoms",
+    "Herbaceous perennial plant widely used in Ayurveda",
+    "Known for anticancer alkaloids like vinblastine and vincristine",
+    "Also used for treating fever, cough, and respiratory ailments",
+    "Plant studied for pollen germination and medicinal alkaloid production"
+  ],
+  "metadata": {
+    "species": "Catharanthus roseus",
+    "common_name": "Nithyapushpa (Madagascar Periwinkle)",
+    "family": "Apocynaceae",
+    "region": "Native to Madagascar, cultivated across India",
+    "source_urls": [
+      "https://urbanmali.com/blogs/nithya-pushpa-catharanthus-roseus",
+      "https://indiaflora-ces.iisc.ac.in/EasternGhats/herbsheet.php?id=350&cat=4",
+      "https://ijsdr.org/viewpaperforall.php?paper=IJSDR2309080"
+    ]
+  }
+},
+  {
+  "image_path": "images/palak_1.jpg",
+  "captions": [
+    "Palak spinach plant with broad green leaves",
+    "Nutritious leafy vegetable rich in iron and vitamins",
+    "Fast-growing cool-season crop harvested in 30–40 days",
+    "Commonly used in Indian cuisine like palak paneer and soups",
+    "Superfood known to boost immunity and heart health"
+  ],
+  "metadata": {
+    "species": "Spinacia oleracea",
+    "common_name": "Palak (Spinach)",
+    "family": "Amaranthaceae",
+    "region": "Native to Central and Western Asia, cultivated worldwide",
+    "source_urls": [
+      "https://prabhaorganics.com/products/palak-spinach-seeds-%E0%B0%AA%E0%B0%BE%E0%B0%B2%E0%B0%95%E0%B1%82%E0%B0%B0",
+      "https://urjaseeds.com/blogs/news/how-to-grow-nutritious-spinach-palak-at-home",
+      "https://www.allthatgrows.in/blogs/posts/grow-spinach-at-home-in-india"
+    ]
+  }
+},
+  {
+  "image_path": "images/pea_1.jpg",
+  "captions": [
+    "Pea plant with green pods and climbing tendrils",
+    "One of the oldest cultivated crops rich in protein and fiber",
+    "Produces edible seeds and pods used in soups and curries",
+    "Flowers are pink, white, or purple with butterfly-like shape",
+    "Plant used in Gregor Mendel’s genetic experiments"
+  ],
+  "metadata": {
+    "species": "Pisum sativum",
+    "common_name": "Pea",
+    "family": "Fabaceae",
+    "region": "Native to the Mediterranean region, cultivated worldwide",
+    "source_urls": [
+      "https://www.britannica.com/plant/pea",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10341148/",
+      "https://www.sciencedirect.com/topics/food-science/pea"
+    ]
+  }
+},
+  {
+  "image_path": "images/pumpkin_1.jpg",
+  "captions": [
+    "Pumpkin plant with large round orange fruits and broad leaves",
+    "Member of the Cucurbitaceae family grown in tropical regions",
+    "Rich in fibers, unsaturated fatty acids, and minerals",
+    "Seeds and pulp used for their nutritional and medicinal value",
+    "Known for controlling diabetes and supporting heart health"
+  ],
+  "metadata": {
+    "species": "Cucurbita pepo (and related species C. maxima, C. moschata, etc.)",
+    "common_name": "Pumpkin",
+    "family": "Cucurbitaceae",
+    "region": "Native to tropical and subtropical America, cultivated worldwide",
+    "source_urls": [
+      "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/pumpkins",
+      "https://www.britannica.com/plant/pumpkin",
+      "https://www.healthline.com/nutrition/pumpkin"
+    ]
+  }
+},
+  {
+  "image_path": "images/sampige_1.jpg",
+  "captions": [
+    "Magnolia champaca tree with fragrant orange-yellow flowers",
+    "Large evergreen tropical tree native to India and Southeast Asia",
+    "Flowers used in perfumes and traditional religious offerings",
+    "Valued for high-quality timber and ecological importance",
+    "Attracts pollinators like bees and birds with its sweet aroma"
+  ],
+  "metadata": {
+    "species": "Magnolia champaca (syn. Michelia champaca)",
+    "common_name": "Sampige (Champaka)",
+    "family": "Magnoliaceae",
+    "region": "India and Southeast Asia",
+    "source_urls": [
+      "https://nurserylive.com/products/michelia-champa-son-champa-orange-plant",
+      "https://www.wisdomlib.org/definition/sampige",
+      "https://indiaflora-ces.iisc.ac.in/FloraKarnataka/herbsheet.php?id=2654&cat=1"
+    ]
+  }
+},
+  {
+  "image_path": "images/spinach_1.jpg",
+  "captions": [
+    "Spinach plant with tender green leaves rich in nutrients",
+    "Leafy vegetable high in iron, calcium, and vitamins A, C, and K",
+    "Commonly eaten fresh in salads or cooked in various dishes",
+    "Known for improving eyesight and supporting heart health",
+    "Fast-growing cool-season crop native to Central and Western Asia"
+  ],
+  "metadata": {
+    "species": "Spinacia oleracea",
+    "common_name": "Spinach",
+    "family": "Amaranthaceae",
+    "region": "Native to Central and Western Asia, grown worldwide",
+    "source_urls": [
+      "https://www.healthline.com/nutrition/foods/spinach",
+      "https://www.webmd.com/vitamins/ai/ingredientmono-365/spinach#overview",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5567714/"
+    ]
+  }
+},
   
